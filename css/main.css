@@ -273,7 +273,7 @@ Version: 		1.0.0
 	border-width: 10px 0 10px 10px;
 	width: 1px;
 	height: 1px;
-	border-left-color: #0480be;
+	border-left-color: #FFE7E7;
 	margin-left: 0;
 }
 
@@ -5700,7 +5700,7 @@ pre {
 }
 
 .filter-nav-v2 button {
-	color: #c1c5cd;
+	color: #eba694;
 }
 
 .filter-nav-v2 button:hover {
@@ -9902,7 +9902,7 @@ a.full-width-icon:hover .social-text {
 
 .footer .footer-main {
 	/*background: $footer-bg-image;*/
-	background-color: #c4a982;
+	background-color: #eba694;
 	position: relative;
 	color: #fff;
 	z-index: 2;
