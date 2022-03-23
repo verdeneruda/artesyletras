@@ -4750,7 +4750,11 @@ em.state-invalid {
 
 /******* content block styles *******/
 
+.colorsito{
+color: floralwhite;
+}
 .content-block {
+	background-color: #151515;
 	padding-top: 3.75rem;
 	padding-bottom: 3.75rem;
 }
@@ -6559,8 +6563,8 @@ input:focus:-ms-input-placeholder,textarea:focus:-ms-input-placeholder {
 
 .waituk_newsletter-form input[type='email'] {
 	background: none;
-	color: #55565b;
-	border-color: #55565b;
+	color: #f1f1f1;
+	border-color: #f1f1f1;
 	letter-spacing: 0rem;
 }
 
@@ -6604,7 +6608,7 @@ input:focus:-ms-input-placeholder,textarea:focus:-ms-input-placeholder {
 	padding: 0 0;
 	background: none;
 	border: none;
-	color: #55565b;
+	color: #f1f1f1;
 	-webkit-transform: translate(0, -50%);
 	-o-transform: translate(0, -50%);
 	transform: translate(0, -50%);
@@ -9902,7 +9906,7 @@ a.full-width-icon:hover .social-text {
 
 .footer .footer-main {
 	/*background: $footer-bg-image;*/
-	background-color: #c4a982;
+	background-color: #1da1f2;
 	position: relative;
 	color: #fff;
 	z-index: 2;
@@ -10045,11 +10049,11 @@ a.full-width-icon:hover .social-text {
 }
 
 .footer-v1 .footer-main {
-	background: ##80520f;
+	background: #f1f1f1;
 }
 
 .footer-v2 .btn.btn-trans-dark-gray {
-	color: #7d7d7d;
+	color: #f1f1f1;
 }
 
 .footer-v3 .footer-map {
