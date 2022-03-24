@@ -4194,7 +4194,7 @@ em.state-invalid {
 	padding: .9375rem;
 	letter-spacing: .1429rem;
 	text-transform: uppercase;
-	border: .1429rem solid #5645ff;
+	border: .1429rem solid #d17fb8;
 	color: #fff;
 	min-width: 10rem;
 	outline: none;
@@ -6323,7 +6323,7 @@ pre {
 }
 
 .team-box:hover .team-des-v2 .name {
-	color: #5645ff;
+	color: #d17fb8;
 }
 
 .team-box:hover .team-des-v2 .sub {
