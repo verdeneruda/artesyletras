@@ -4638,8 +4638,8 @@ em.state-invalid {
     padding-top: 0; } }
 
 .alternate-block-v2 .btn-primary {
-  background: #55565b;
-  border-color: #55565b;
+  background: #4ea5f0c4;
+  border-color: #0044cc00;
   min-width: 13.44rem; }
 
 .masonary-block .gallery-item {
@@ -4941,7 +4941,7 @@ pre {
   color: #55565b;
   font-weight: 700; }
   .heading h2 span {
-    color: #f57f17; }
+    color: #5bc0de; }
 
 /******* icon box styles *******/
 .ico-box {
