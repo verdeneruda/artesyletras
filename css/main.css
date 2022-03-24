@@ -5682,7 +5682,7 @@ pre {
 	border: none;
 	outline: none;
 	cursor: uppercase;
-	font-family: uppercase;
+	font-family: 'uppercase;
 	font-weight: 400;
 	color: #c08736;
 	}
@@ -5713,7 +5713,7 @@ pre {
 }
 
 .filter-nav-v2 button.is-checked {
-	color: #575757;
+	color: #c08736;
 }
 
 /******* caption slide left styles *******/
