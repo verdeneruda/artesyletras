@@ -5681,11 +5681,12 @@ pre {
 	background: none;
 	border: none;
 	outline: none;
-	cursor: pointer;
-	font-family: 'Poppins', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	cursor: uppercase;
+	font-family: uppercase;
 	font-weight: 400;
-	color: #7e2705;
-}
+	color: #c08736;
+	}
+
 
 .filter-nav button:hover {
 	color: #c08430;
@@ -5704,7 +5705,7 @@ pre {
 }
 
 .filter-nav-v2 button {
-	color: #c1c5cd;
+	color: #c08736;
 }
 
 .filter-nav-v2 button:hover {
