@@ -1,0 +1,155 @@
+.color {
+    background-color: rgb(138, 243, 128);
+    width: 950px;
+    height: 100px;
+    text-align: center;
+    
+
+
+}
+
+.azul {
+    background-color: rgb(223, 205, 43);
+    width: 950px;
+    height: 100px;
+    text-align: center;
+}
+
+.morado {
+    background-color: rgb(182, 137, 224);
+    width: 950px;
+    height: 100px;
+    text-align: center;
+}
+
+.columna {
+    background-color: purple;
+    height: 50px;
+    text-align: center;
+    color: azure;
+}
+
+.dos {
+    background-color: lawngreen;
+    height: 45px;
+}
+
+.tres {
+    background-color: rgb(145, 95, 15);
+    height: 45px;
+}
+
+.cuatro {
+    background-color: rgb(162, 155, 218);
+    height: 454 px;
+}
+
+.cinco {
+    background-color: rgb(119, 145, 60);
+    height: 45px;
+}
+
+.seis {
+    background-color: rgb(145, 15, 117);
+    height: 30px;
+    text-align: center;
+    width: 500px;
+    margin:45px;
+}
+
+.siete {
+    background-color: rgb(138, 201, 157);
+    height: 30px;
+    text-align: center;
+    width: 500px;
+    margin: 45px;
+    
+}
+
+h1 {
+    color: darkorange;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(28, 178, 204);
+    text-align: center;
+}
+
+h3 {
+    color: rgb(36, 141, 106);
+    text-align: center;
+}
+
+h4 {
+    color: rgb(52, 219, 46);
+    text-align: center;
+}
+
+h5 {
+    color: rgb(200, 243, 245);
+    text-align: center;
+}
+
+h6 {
+    color: rgb(161, 206, 39);
+    text-align: center;
+}
+
+.sol {
+    margin: 30px 250px;
+}
+
+.luna {
+    background-color: lightcoral;
+    color: chartreuse;
+}
+
+.nube {
+    background-color: gold;
+    color: cornflowerblue;
+}
+
+.cielo {
+    background-color: darkorange;
+    color: blue;
+}
+
+.gris {
+    background-color: khaki;
+    color: blueviolet;
+}
+
+.verde {
+    background-color: darkolivegreen;
+}
+
+.negro {
+    background-color: rgb(105, 214, 147);
+}
+
+.vai {
+    background-color: crimson;
+}
+
+.tu {
+    background-color: bisque;
+}
+
+.ar {
+    background-color: blue;
+}
+
+.ht {
+    background-color: violet;
+    color: blue;
+}
+
+.op {
+    background-color:orchid ;
+
+}
+
+.red {
+    color: yellow;
+}
