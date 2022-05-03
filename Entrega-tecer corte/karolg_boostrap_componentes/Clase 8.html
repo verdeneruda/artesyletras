@@ -7,7 +7,7 @@
 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-    <link href="css" rel="stylesheet">
+    <link href="estilos.css" rel="stylesheet">
     
     <title>Clase 8</title>
   </head>
@@ -27,13 +27,13 @@
 
     <div class="container color">
         <div class="row">
-          <div class="col order-last">
+          <div class="col order-last azul">
             First in DOM, ordered last
           </div>
           <div class="col">
             Second in DOM, unordered
           </div>
-          <div class="col order-first">
+          <div class="col order-first morado">
             Third in DOM, ordered first
           </div>
         </div>
@@ -41,7 +41,7 @@
 
     <br>
     
-    <div class="container">
+    <div class="container columna">
         <div class="row">
           <div class="col">
             Column
@@ -59,22 +59,23 @@
 
       <div class="container">
         <div class="row">
-          <div class="col-6 col-sm-3">.col-6 .col-sm-3</div>
-          <div class="col-6 col-sm-3">.col-6 .col-sm-3</div>
+          <div class="col-6 col-sm-3 dos">.col-6 .col-sm-3</div>
+          <div class="col-6 col-sm-3 tres">.col-6 .col-sm-3</div>
       
           <!-- Force next columns to break to new line -->
           <div class="w-100"></div>
       
-          <div class="col-6 col-sm-3">.col-6 .col-sm-3</div>
-          <div class="col-6 col-sm-3">.col-6 .col-sm-3</div>
+          <div class="col-6 col-sm-3 cuatro">.col-6 .col-sm-3</div>
+          <div class="col-6 col-sm-3 cinco">.col-6 .col-sm-3</div>
         </div>
       </div>  
 
       <br>
+      <br>
 
       <div class="row g-0">
-        <div class="col-sm-6 col-md-8">.col-sm-6 .col-md-8</div>
-        <div class="col-6 col-md-4">.col-6 .col-md-4</div>
+        <div class="col-sm-6 col-md-8 seis">.col-sm-6 .col-md-8</div>
+        <div class="col-6 col-md-4 siete">.col-6 .col-md-4</div>
       </div>
 
       <br>
@@ -88,11 +89,15 @@
 
       <br>
 
-      <img src="Imágenes/1.jpg" class="img-fluid" alt="paisaje">
+     
+
+      <img src="Imágenes/1.jpg" class="img-fluid sol" alt="paisaje">
+      
+
 
       <br>
 
-      <table class="table">
+      <table class="table luna">
         <thead>
           <tr>
             <th scope="col">#</th>
@@ -124,18 +129,18 @@
 
       <br>
 
-      <div class="mb-3">
+      <div class="mb-3 nube">
         <label for="exampleFormControlInput1" class="form-label">Email address</label>
-        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+        <input type="email" class="form-control gris" id="exampleFormControlInput1" placeholder="name@example.com">
       </div>
-      <div class="mb-3">
+      <div class="mb-3 cielo">
         <label for="exampleFormControlTextarea1" class="form-label">Example textarea</label>
-        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+        <textarea class="form-control negro" id="exampleFormControlTextarea1" rows="3"></textarea>
       </div>
 
       <br>
 
-      <select class="form-select" aria-label="Default select example">
+      <select class="form-select verde" aria-label="Default select example">
         <option selected>Open this select menu</option>
         <option value="1">One</option>
         <option value="2">Two</option>
@@ -144,13 +149,13 @@
 
       <br>
 
-      <div class="form-check">
-        <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+      <div class="form-check vai">
+        <input class="form-check-input tu" type="checkbox" value="" id="flexCheckDefault">
         <label class="form-check-label" for="flexCheckDefault">
           Default checkbox
         </label>
       </div>
-      <div class="form-check">
+      <div class="form-check ar">
         <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
         <label class="form-check-label" for="flexCheckChecked">
           Checked checkbox
@@ -159,13 +164,13 @@
 
       <br>
 
-      <label for="customRange1" class="form-label">Example range</label>
-      <input type="range" class="form-range" id="customRange1">
+      <label for="customRange1" class="form-label red">Example range</label>
+      <input type="range" class="form-range op" id="customRange1">
 
       <br>
 
       <form class="form-floating">
-        <input type="email" class="form-control is-invalid" id="floatingInputInvalid" placeholder="name@example.com" value="test@example.com">
+        <input type="email" class="form-control is-invalid ht" id="floatingInputInvalid" placeholder="name@example.com" value="test@example.com">
         <label for="floatingInputInvalid">Invalid input</label>
       </form>
 
