@@ -1,0 +1,66 @@
+h1 {
+    color: darkmagenta;
+}
+
+.luz {
+    background-color: darksalmon;
+    height: 50px;
+    text-align: center;
+}
+
+.luza {
+    background-color: rgb(109, 60, 44);
+    height: 50px;
+    text-align: center; 
+}
+
+.luzi {
+    background-color: rgb(117, 89, 79);
+    height: 50px;
+    text-align: center;  
+}
+
+.liz {
+    background-color: rgb(79, 80, 117);
+    height: 50px;
+    text-align: center;
+}
+
+.laz {
+    background-color: rgb(128, 226, 149);
+    height: 50px;
+    text-align: center; 
+}
+
+.loz {
+    background-color: rgb(75, 81, 240);
+    height: 50px;
+    text-align: center;
+}
+
+.flor {
+    background-color: rgb(238, 205, 17);
+    height: 40px;
+    text-align: center;
+    width: 320px;
+}
+
+.flora {
+    background-color: springgreen;
+    height: 80px;
+}
+
+.flori {
+    background-color: tomato;
+    height: 80px;
+}
+
+.flore {
+    background-color: rgb(71, 135, 255);
+    height: 80px;
+}
+
+.floru {
+    background-color: rgb(221, 255, 71);
+    height: 80px;
+}
